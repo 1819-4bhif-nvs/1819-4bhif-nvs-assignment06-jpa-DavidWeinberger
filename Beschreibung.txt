@@ -1,0 +1,5 @@
+David Weinberger
+
+Diese Programm simuliert eine Verwaltung von ItPool-Geäten.
+In diesem Beispiel gibt es Arbeiter, Geräte, Stand-PCs(Abgeleitet von Geräte), Laptops(Abgeleitet von Geräte)
+und Ausleihungen.
